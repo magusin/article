@@ -2,7 +2,7 @@
 <html lang="fr">
   <head>
     <?php require_once 'includes/head.php' ?>
-    <link rel="stylesheet" href="/php-chapitre10-projet-todo-part2/public/css/add-article.css">
+    <link rel="stylesheet" href="/article/public/css/add-article.css">
 
     <title>Créer un article</title>
   </head>
@@ -26,7 +26,7 @@
             <div class="form-control">
               <label for="category">Catégorie</label>
               <select name="category" id="category">
-                <option value="technology">Technologie</option>
+                <option value="technology">Animaux</option>
                 <option value="nature">Nature</option>
                 <option value="politics">Politique</option>
               </select>
